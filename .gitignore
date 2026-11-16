@@ -1,33 +1,19 @@
+# Local Python environment
+/.venv-rocm/
 
+# Generated Python bytecode
 __pycache__/
-*.py[cod]
-.pytest_cache/
 
-venv/
-.venv/
+# Keep only the source catalogue CSV; ignore images, vectors and backups
+/data/*
+!/data/synthetic-catalogue/
+/data/synthetic-catalogue/*
+!/data/synthetic-catalogue/product_catalogue_30000.csv
+/results/
 
-.env
-.env.*
-!.env.example
+# Local evaluation photos and derived crops/masks
+/query-images/
+/query-images-cropped/
+/query-images-segmented/
 
-*.pt
-*.pth
-*.onnx
-
-*.npy
-*.npz
-*.memmap
-
-results/
-output/
-
-query-images/
-query-images-cropped/
-query-images-segmented/
-testing_queries/
-test-*.png
-.ipynb_checkpoints/
-
-.vscode/
-.idea/
-.DS_Store
+/tests

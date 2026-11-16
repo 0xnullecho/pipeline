@@ -1,0 +1,108 @@
+Top 5 for: query-images/22.png. 
+Label: bottom 
+Query base color: khaki
+Product ID: SYN-001387 
+Base colour: Khaki 
+MainCategory: bottom 
+Initial similarity index: 0.7382437586784363 
+Final similarity: 0.8182437586784364 
+
+Product ID: SYN-001442 
+Base colour: Khaki 
+MainCategory: bottom 
+Initial similarity index: 0.7349889278411865 
+Final similarity: 0.8149889278411866 
+
+Product ID: SYN-001368 
+Base colour: Khaki 
+MainCategory: bottom 
+Initial similarity index: 0.7311936616897583 
+Final similarity: 0.8111936616897584 
+
+Product ID: SYN-001420 
+Base colour: Khaki 
+MainCategory: bottom 
+Initial similarity index: 0.724187433719635 
+Final similarity: 0.8041874337196351 
+
+Product ID: SYN-001402 
+Base colour: Khaki 
+MainCategory: bottom 
+Initial similarity index: 0.7210411429405212 
+Final similarity: 0.8010411429405213 
+
+
+
+
+Top 5 for: query-images/22.png. 
+Label: outer 
+Query base color: green
+Product ID: SYN-013137 
+Base colour: Green 
+MainCategory: outer 
+Initial similarity index: 0.8253928422927856 
+Final similarity: 0.9053928422927857 
+
+Product ID: SYN-013122 
+Base colour: Green 
+MainCategory: outer 
+Initial similarity index: 0.8065389394760132 
+Final similarity: 0.8865389394760133 
+
+Product ID: SYN-013125 
+Base colour: Green 
+MainCategory: outer 
+Initial similarity index: 0.8004041314125061 
+Final similarity: 0.8804041314125062 
+
+Product ID: SYN-013162 
+Base colour: Green 
+MainCategory: outer 
+Initial similarity index: 0.7952076196670532 
+Final similarity: 0.8752076196670533 
+
+Product ID: SYN-013111 
+Base colour: Green 
+MainCategory: outer 
+Initial similarity index: 0.794739305973053 
+Final similarity: 0.874739305973053 
+
+
+
+
+Top 5 for: query-images/22.png. 
+Label: top 
+Query base color: None
+Product ID: SYN-006144 
+Base colour: Black 
+MainCategory: top 
+Initial similarity index: 0.6579859852790833 
+Final similarity: 0.6979859852790833 
+
+Product ID: SYN-006127 
+Base colour: Black 
+MainCategory: top 
+Initial similarity index: 0.6480460166931152 
+Final similarity: 0.6880460166931153 
+
+Product ID: SYN-006147 
+Base colour: Black 
+MainCategory: top 
+Initial similarity index: 0.6464056372642517 
+Final similarity: 0.6864056372642517 
+
+Product ID: SYN-006133 
+Base colour: Black 
+MainCategory: top 
+Initial similarity index: 0.6461992859840393 
+Final similarity: 0.6861992859840393 
+
+Product ID: SYN-006023 
+Base colour: Black 
+MainCategory: top 
+Initial similarity index: 0.6426929831504822 
+Final similarity: 0.6826929831504822 
+
+
+
+
